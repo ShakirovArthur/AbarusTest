@@ -1,16 +1,18 @@
 .searchInput{
-    width:631px;
-    background-color: #5A5C66;
-
+    width:30%;
+}
+.ant-input{
+    color:white;
 }
 .search{
+    width: 100%;
     margin-left: 78px;
     margin-top: 23px;
 
 }
 .ant-input {
     background-color: #5A5C66;
-    border-radius: 0px;
+    border-radius: 0;
     border-color: #5A5C66;
 }
 .ant-btn-primary{

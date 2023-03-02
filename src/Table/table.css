@@ -1,0 +1,19 @@
+.table-info {
+    margin-left: 78px;
+    margin-top: 15px;
+    margin-right: 77px;
+
+}
+.ant-table-column-sorters::after {
+    background-color: #474955;
+
+}
+thead > tr:first-child > :last-child{
+    background-color: #474955;
+}
+.ant-table-thead span{
+    color:white;
+}
+.ant-table-wrapper .ant-table-pagination-right{
+    justify-content: center;
+}
