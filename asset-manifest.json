@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AbarusTest/static/css/main.8e010087.css",
+    "main.css": "/AbarusTest/static/css/main.7ec01997.css",
     "main.js": "/AbarusTest/static/js/main.69bad7d1.js",
     "index.html": "/AbarusTest/index.html",
-    "main.8e010087.css.map": "/AbarusTest/static/css/main.8e010087.css.map",
+    "main.7ec01997.css.map": "/AbarusTest/static/css/main.7ec01997.css.map",
     "main.69bad7d1.js.map": "/AbarusTest/static/js/main.69bad7d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e010087.css",
+    "static/css/main.7ec01997.css",
     "static/js/main.69bad7d1.js"
   ]
 }
